@@ -1,0 +1,1 @@
+Para testear el codigo tener en cuenta que se deben crear 2 carpetas en el colab, una denominada "CSV" donde iria el archivo "Expectativa.csv" y la otra "Data" donde iria el archivo .pdf de donde se obtendra el texto.
